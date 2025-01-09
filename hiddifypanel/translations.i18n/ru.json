@@ -57,7 +57,6 @@
   "Domain (%(domain)s)-> IP=%(domain_ip)s is not matched with your ip=%(server_ip)s which is required in direct mode": "Домен (%(domain)s)-> IP = %(domain_ip)s не совпадает с вашим IP = %(server_ip)s . это требуется в режиме Direct",
   "Domain IP=%(domain_ip)s is not matched with your ip=%(server_ip)s which is required in direct mode": "IP=%(domain_ip)s Домена не совпадает с Вашим IP Сервера, который необходим для \"Прямого Режима\"",
   "Domain can not be resolved! there is a problem in your domain": "Не возможно определить IP адрес для домена! В вашем домене возникла проблема. Пожалуйста, проверьте настройки.",
-  "Domain cannot be resolved! Please check DNS settings": "",
   "Domain is not REALITY friendly!": "Домен не подходит для использования с REALITY!",
   "Domain?": "Домен?",
   "Donation": {
@@ -152,7 +151,6 @@
   "QRCode": "<i class='fa-solid fa-qrcode'></i> QR-код",
   "RAM": "RAM",
   "REALITY Fallback domain is not compaitble with server names!": "REALITY Fallback Domain несовместим с именами серверов!",
-  "REALITY Fallback domain is not compatible with server names!": "",
   "Release": "✅ Релиз",
   "Remaining about %(relative)s, exactly %(days)s days": "Осталось около %(relative)s, ровно %(days)s дней",
   "Remote nodes are not supported yet!": "Удаленные узлы пока не поддерживаются!",
@@ -188,7 +186,6 @@
   "Simplifies the process of employing the link elsewhere.": "Упрощает процесс использования ссылки в других местах",
   "SingBox": "📦 SingBox",
   "Sort by %(name)s": "Сортировать по %(name)s",
-  "Specifying CDN IP is only valid for CDN mode": "",
   "Start Date": "Дата начала",
   "Started %(days)s days ago": "Началось %(days)s дней назад",
   "Started from %(relative)s": "Началось с %(relative)s",
@@ -327,9 +324,6 @@
     "streisand": {
       "description": "Описание Streisand",
       "title": "Streisand"
-    },
-    "v2rayn": {
-      "title": ""
     },
     "v2rayng": {
       "description": "Описание V2RayNG",
@@ -800,38 +794,6 @@
       "description": "SSH Proxy, также известный как SSH tunnel или переадресация портов SSH, представляет собой метод создания безопасного канала связи между двумя компьютерами в незащищенной сети. У нас есть отдельное приложение, которое полностью отличается от стандартногно ssh-сервера и не может выполнять какие-либо команды.",
       "label": "SSH Proxy"
     },
-    "ssh_host_dsa_pk": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_dsa_pub": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_ecdsa_pk": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_ecdsa_pub": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_ed25519_pk": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_ed25519_pub": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_rsa_pk": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_rsa_pub": {
-      "description": "",
-      "label": ""
-    },
     "ssh_server_enable": {
       "description": "SSH Proxy полностью отличается от оригинального SSH Server",
       "label": "✔️ Включить SSH Poxy"
@@ -1099,7 +1061,7 @@
   "lang": {
     "en": "🇺🇸 Английский - English ",
     "fa": "🇮🇷 Персидский - فارسی",
-    "my": "",
+    "my": "🇲🇲 Бирманский язык - မြန်မာဘာသာ",
     "pt": "🇵🇹 Португальский - Portugal ",
     "ru": "🇷🇺 Русский",
     "zh": "🇨🇳 Chinese - 简体中文"

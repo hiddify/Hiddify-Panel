@@ -57,6 +57,7 @@
   "Domain (%(domain)s)-> IP=%(domain_ip)s is not matched with your ip=%(server_ip)s which is required in direct mode": "ဒိုမိန်း (%(domain)s)-> IP = %(domain_ip)s သည် သင်၏ IP = %(server_ip)s နှင့် မတူညီပါ။ တိုက်ရိုက်မုဒ်တွင် ဤသည်မှာ လိုအပ်သည်။",
   "Domain IP=%(domain_ip)s is not matched with your ip=%(server_ip)s which is required in direct mode": "ဤတိုက်ရိုက်မုဒ်တွင် လိုအပ်သော ဒိုမိန်း IP=%(domain_ip)s သည် သင်၏ ip=%(server_ip)s နှင့် မတူညီပါ",
   "Domain can not be resolved! there is a problem in your domain": "ဒိုမိန်း ကို ဖြေရှင်း၍မရပါ။ သင့်ဒိုမိန်းတွင် ပြဿနာရှိနေပါသည်။ ကျေးဇူးပြု၍ သင်၏ ဒိုမိန်း ဖွဲ့စည်းမှုပုံစံများကို စစ်ဆေးပါ။",
+  "Domain cannot be resolved! Please check DNS settings": "ဒိုမိန်းအား မဖြေရှင်းနိုင်ပါ။ DNS အပြင်အဆင်အား စစ်ဆေးပါ။",
   "Domain is not REALITY friendly!": "Domain သည် REALITY တွင် အဆင်ပြေမည်မဟုတ်ပါ။",
   "Domain?": "ဒိုမိန်း?",
   "Donation": {
@@ -151,6 +152,7 @@
   "QRCode": "<i class='fa-solid fa-qrcode'></i> ကျူအာ ကုဒ်",
   "RAM": "RAM",
   "REALITY Fallback domain is not compaitble with server names!": "REALITY Fallback Domain သည် ဆာဗာအမည်များနှင့် မကိုက်ညီပါ။",
+  "REALITY Fallback domain is not compatible with server names!": "REALITY Fallback Domain သည် ဆာဗာအမည်များနှင့် မကိုက်ညီပါ။",
   "Release": "✅ ဖြန့်ချိ",
   "Remaining about %(relative)s, exactly %(days)s days": "လက်ကျန် %(relative)s, အတိအကျအားဖြင့် %(days)s ရက်",
   "Remote nodes are not supported yet!": "အဝေးထိန်း ဆုံမှတ်များကို မပံ့ပိုးရသေးပါ။",
@@ -186,6 +188,7 @@
   "Simplifies the process of employing the link elsewhere.": "အခြားနေရာများတွင် လင့်ခ်ကို အသုံးချခြင်းလုပ်ငန်းစဉ်ကို ရိုးရှင်းစေသည်။",
   "SingBox": "📦 SingBox",
   "Sort by %(name)s": "%(name)s ဖြင့် စီစဉ်ရန်",
+  "Specifying CDN IP is only valid for CDN mode": "CDN အိုင်ပီအား သတ်မှတ်ခြင်းသည် CDN မုဒ်အတွက်သာ ရေရာသည်",
   "Start Date": "စတင်ရက်",
   "Started %(days)s days ago": "%(days)s ရက်အကြာက စတင်ခဲ့သည်",
   "Started from %(relative)s": "%(relative)s မှ စတင်ခဲ့သည်",
@@ -1061,6 +1064,7 @@
   "lang": {
     "en": "🇺🇸 အင်္ဂလိပ်",
     "fa": "🇮🇷 ပါရှန်း - فارسی",
+    "my": "🇲🇲 မြန်မာ - မြန်မာဘာသာ",
     "pt": "🇵🇹 ပေါ်တူဂီ - Português ",
     "ru": "🇷🇺 ရုရှား - Русский",
     "zh": "🇨🇳 တရုတ် - 简体中文"

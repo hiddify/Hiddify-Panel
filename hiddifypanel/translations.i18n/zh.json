@@ -57,7 +57,6 @@
   "Domain (%(domain)s)-> IP=%(domain_ip)s is not matched with your ip=%(server_ip)s which is required in direct mode": "域 (%(domain)s)-> IP = %(domain_ip)s 与您的 IP = %(server_ip)s 不同。这在直接模式下是必需的",
   "Domain IP=%(domain_ip)s is not matched with your ip=%(server_ip)s which is required in direct mode": "域名IP=%(domain_ip)s is not matched with your ip=%(server_ip)s需要用于直连模式",
   "Domain can not be resolved! there is a problem in your domain": "域名无法解析！您的域有问题。请检查您的域配置。",
-  "Domain cannot be resolved! Please check DNS settings": "",
   "Domain is not REALITY friendly!": "域名对现实不友好！",
   "Domain?": "域名？",
   "Donation": {
@@ -152,7 +151,6 @@
   "QRCode": "<i class='fa-solid fa-qrcode'></i> QRCode",
   "RAM": "内存",
   "REALITY Fallback domain is not compaitble with server names!": "REALITY 后备域与服务器名称不兼容！",
-  "REALITY Fallback domain is not compatible with server names!": "",
   "Release": "✅ 发布",
   "Remaining about %(relative)s, exactly %(days)s days": "还剩下大约 %(relative)s，正好 %(days)s 天",
   "Remote nodes are not supported yet!": "尚不支持远程节点！",
@@ -188,7 +186,6 @@
   "Simplifies the process of employing the link elsewhere.": "简化了在其他地方使用链接的过程",
   "SingBox": "📦 歌盒",
   "Sort by %(name)s": "以%(name)s排序",
-  "Specifying CDN IP is only valid for CDN mode": "",
   "Start Date": "开始日期",
   "Started %(days)s days ago": "已于 %(days)s 天前开始",
   "Started from %(relative)s": "从 %(relative)s 开始",
@@ -327,9 +324,6 @@
     "streisand": {
       "description": "Streisand描述",
       "title": "Streisand"
-    },
-    "v2rayn": {
-      "title": ""
     },
     "v2rayng": {
       "description": "V2RayNG 说明",
@@ -800,38 +794,6 @@
       "description": "ℹ️ SSH 代理，也称为 SSH 隧道或 SSH 端口转发，是一种通过不安全网络在两台计算机之间创建安全通信通道的安全方法。我们有一个与 ssh 服务器完全不同的特定应用程序，无法执行任何命令",
       "label": "SSH 代理"
     },
-    "ssh_host_dsa_pk": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_dsa_pub": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_ecdsa_pk": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_ecdsa_pub": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_ed25519_pk": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_ed25519_pub": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_rsa_pk": {
-      "description": "",
-      "label": ""
-    },
-    "ssh_host_rsa_pub": {
-      "description": "",
-      "label": ""
-    },
     "ssh_server_enable": {
       "description": "SSH Proxy 与原来的 SSH Server 完全不同",
       "label": "✔️ 启用 SSH 代理"
@@ -1099,7 +1061,7 @@
   "lang": {
     "en": "🇺🇸 英语 - English ",
     "fa": "🇮🇷 波斯语 - فارسی",
-    "my": "",
+    "my": "🇲🇲 缅甸语 - မြန်မာဘာသာ",
     "pt": "🇵🇹 葡萄牙語 - Português  ",
     "ru": "🇷🇺 俄语 - Русский",
     "zh": "🇨🇳 Chinese - 简体中文"
